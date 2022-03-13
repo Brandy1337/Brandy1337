@@ -2,5 +2,5 @@
 
 
 - 🌱 I’m currently learning C# / JAVA
-- 📫 How to reach me: @kazuo (Telegram)
+- 📫 How to reach me: https://t.me/kazuo
 
