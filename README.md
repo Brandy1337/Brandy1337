@@ -1,6 +1,6 @@
-### Hi there 👋
+### Yeo 👋
 
 
-- 🌱 I’m currently learning C# / JAVA
-- 📫 How to reach me: https://t.me/kazuo
+- 🌱 Delving into Random Shit within the blockchain
+- 📫 How to reach me: https://t.me/parrot
 
